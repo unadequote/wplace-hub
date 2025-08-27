@@ -63,7 +63,7 @@ Coordinates: `1186/1175/7/191`
 
 ---
 
-## [Pony Quest I](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/pony-quest-1.png)
+## [Pony Quest I](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/pony-quest-i.png)
 
 Coordinates: `1184/1175/911/436`  
 [Link](https://wplace.live/?lat=-25.710678242941498&lng=28.285224278027343)
