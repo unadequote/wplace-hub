@@ -1,5 +1,12 @@
 # Coordinates and Locations
 
+## [AJ with Perry](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/aj-with-perry.png)
+
+Coordinates: `1186` - `1174` - `886` - `189`  
+[Location](https://wplace.live/?lat=-25.51301698972103&lng=28.632392246777343)
+
+---
+
 ## [Cider Party](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/cider-party.png)
 
 Coordinates: `1186` - `1175` - `7` - `196`  
@@ -88,6 +95,27 @@ Coordinates: `1184` - `1175` - `941` - `638`
 
 Coordinates: `1185` - `1175` - `943` - `241`  
 [Location](https://wplace.live/?lat=-25.67979048040457&lng=28.466630528027324)
+
+---
+
+## [Rainbow Weed Idle](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/rainbow-weed-idle.png)
+
+Coordinates: `1186` - `1174` - `953` - `186`  
+[Location](https://wplace.live/?lat=-25.512541067659622&lng=28.644169590527316)
+
+---
+
+## [Rainbow Weed Left](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/rainbow-weed-left.png)
+
+Coordinates: `1024` - `779` - `428` - `902`  
+[Location](https://wplace.live/?lat=39.38152779602686&lng=0.07532193427733694)
+
+---
+
+## [Rainbow Weed](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/rainbow-weed.png)
+
+Coordinates: `1186` - `1174` - `886` - `186`  
+[Location](https://wplace.live/?lat=-25.512541067659622&lng=28.632392246777343)
 
 ---
 
