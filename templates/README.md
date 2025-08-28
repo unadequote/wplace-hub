@@ -1,5 +1,9 @@
 # Coordinates and Locations
 
+Here's a list of the templates with their image link, coordinates and location.
+
+---
+
 ## [AJ with Perry](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/aj-with-perry.png)
 
 Coordinates: `1186` - `1174` - `886` - `189`  
