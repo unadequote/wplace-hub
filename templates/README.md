@@ -1,136 +1,159 @@
 # Coordinates and Locations
 
-Here's a list of the templates with their image link, coordinates and location.
+Here's a list of the templates with their location, coordinates and image.
+
+### Table of Contents
+**[Creekflow](#creekflow)**<br>
+**[Cutiemark](#cutiemark)**<br>
+**[Flutterskate](#flutterskate)**<br>
+**[Fluttgirshy](#fluttgirshy)**<br>
+**[Horse Music](#horse-music)**<br>
+**[Paprika](#paprika)**<br>
+**[Pony GF](#pony-gf)**<br>
+**[Pony Quest I](#pony-quest-i)**<br>
+**[Pony Town Apple](#pony-town-apple)**<br>
+**[Princesses](#princesses)**<br>
+**[Rainbow Weed Left](#rainbow-weed-left)**<br>
+**[Rainbow Weed](#rainbow-weed)**<br>
+**[Simple](#simple)**<br>
+**[Vinesauce](#vinesauce)**
 
 ---
 
-## [AJ with Perry](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/aj-with-perry.png)
+## Creekflow
 
-Coordinates: `1186` - `1174` - `886` - `189`  
-[Location](https://wplace.live/?lat=-25.51301698972103&lng=28.632392246777343)
+**[Location](https://wplace.live/?lat=38.9236566402102&lng=-0.09430697197267247)**
 
----
+`1023` - `783` - `463` - `261`
 
-## [Cider Party](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/cider-party.png)
-
-Coordinates: `1186` - `1175` - `7` - `196`  
-[Location](https://wplace.live/?lat=-25.672661397634677&lng=28.47788052802733)
+[![Creekflow](creekflow.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/creekflow.png)
 
 ---
 
-## [Creekflow](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/creekflow.png)
+## Cutiemark
 
-Coordinates: `1023` - `783` - `463` - `261`  
-[Location](https://wplace.live/?lat=38.9236566402102&lng=-0.09430697197267247)
+**[Location](https://wplace.live/?lat=-25.539348402580778&lng=28.42127896552733)**
 
----
+`1185` - `1174` - `685` - `355`
 
-## [Cutiemark](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/cutiemark.png)
-
-Coordinates: `1185` - `1174` - `685` - `355`  
-[Location](https://wplace.live/?lat=-25.539348402580778&lng=28.42127896552733)
+[![Cutiemark](cutiemark.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/cutiemark.png)
 
 ---
 
-## [Flutterskate](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/flutterskate.png)
+## Flutterskate
 
-Coordinates: `1185` - `1173` - `845` - `278`  
-[Location](https://wplace.live/?lat=-25.368408740323105&lng=28.44940396552733)
+**[Location](https://wplace.live/?lat=-25.368408740323105&lng=28.44940396552733)**
 
----
+`1185` - `1173` - `845` - `278`
 
-## [Fluttgirshy](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/fluttgirshy.png)
-
-Coordinates: `1024` - `779` - `713` - `804`  
-[Location](https://wplace.live/?lat=39.394841593685015&lng=0.1254195905273215)
+[![Flutterskate](flutterskate.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/flutterskate.png)
 
 ---
 
-## [Horse Music](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/horse-music.png)
+## Fluttgirshy
 
-Coordinates: `1185` - `1175` - `943` - `191`  
-[Location](https://wplace.live/?lat=-25.67186925100379&lng=28.466630528027324)
+**[Location](https://wplace.live/?lat=39.394841593685015&lng=0.1254195905273215)**
 
----
+`1024` - `779` - `713` - `804`
 
-## [Horse Radio](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/horse-radio.png)
-
-Coordinates: `1186` - `1175` - `53` - `233`  
-[Location](https://wplace.live/?lat=-25.67852311908065&lng=28.485966465527312)
+[![Fluttgirshy](fluttgirshy.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/fluttgirshy.png)
 
 ---
 
-## [Paprika](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/paprika.png)
+## Horse Music
 
-Coordinates: `1185` - `1176` - `254` - `759`  
-[Location](https://wplace.live/?lat=-25.92002780974611&lng=28.345517246777334)
+**[Location](https://wplace.live/?lat=-25.67186925100379&lng=28.466630528027324)**
 
----
+`1185` - `1175` - `943` - `191`
 
-## [Ponies at Dawn](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/ponies-at-dawn.png)
-
-Coordinates: `1186` - `1175` - `7` - `191`  
-[Location](https://wplace.live/?lat=-25.67186925100379&lng=28.47788052802733)
+[![Horse Music](horse-music.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/horse-music.png)
 
 ---
 
-## [Pony Quest I](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/pony-quest-i.png)
+## Paprika
 
-Coordinates: `1184` - `1175` - `911` - `436`  
-[Location](https://wplace.live/?lat=-25.710678242941498&lng=28.285224278027343)
+**[Location](https://wplace.live/?lat=-25.92002780974611&lng=28.345517246777334)**
 
----
+`1185` - `1176` - `254` - `759`
 
-## [Pony Town Apple](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/pony-town-apple.png)
-
-Coordinates: `1185` - `1175` - `1` - `866`  
-[Location](https://wplace.live/?lat=-25.778761383843026&lng=28.301044590527336)
+[![Paprika](paprika.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/paprika.png)
 
 ---
 
-## [Princesses](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/princesses.png)
+## Pony GF
 
-Coordinates: `1184` - `1175` - `941` - `638`  
-[Location](https://wplace.live/?lat=-25.74266634458797&lng=28.29049771552733)
+**[Location](https://wplace.live/?lat=-25.55489074002388&lng=28.813622715527327)**
 
----
+`1187` - `1174` - `917` - `453`
 
-## [PVFM](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/pvfm.png)
-
-Coordinates: `1185` - `1175` - `943` - `241`  
-[Location](https://wplace.live/?lat=-25.67979048040457&lng=28.466630528027324)
+[![Pony GF](pony-gf.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/pony-gf.png)
 
 ---
 
-## [Rainbow Weed Idle](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/rainbow-weed-idle.png)
+## Pony Quest I
 
-Coordinates: `1186` - `1174` - `953` - `186`  
-[Location](https://wplace.live/?lat=-25.512541067659622&lng=28.644169590527316)
+**[Location](https://wplace.live/?lat=-25.710678242941498&lng=28.285224278027343)**
 
----
+`1184` - `1175` - `911` - `436`
 
-## [Rainbow Weed Left](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/rainbow-weed-left.png)
-
-Coordinates: `1024` - `779` - `428` - `902`  
-[Location](https://wplace.live/?lat=39.38152779602686&lng=0.07532193427733694)
+[![Pony Quest I](pony-quest-i.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/pony-quest-i.png)
 
 ---
 
-## [Rainbow Weed](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/rainbow-weed.png)
+## Pony Town Apple
 
-Coordinates: `1186` - `1174` - `886` - `186`  
-[Location](https://wplace.live/?lat=-25.512541067659622&lng=28.632392246777343)
+**[Location](https://wplace.live/?lat=-25.778761383843026&lng=28.301044590527336)**
 
----
+`1185` - `1175` - `1` - `866`
 
-## [Simple](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/simple.png)
-
-Coordinates: `1184` - `1175` - `849` - `619`  
-[Location](https://wplace.live/?lat=-25.739657929425768&lng=28.274325840527332)
+[![Pony Town Apple](pony-town-apple.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/pony-town-apple.png)
 
 ---
 
-## [Vinesauce](https://raw.githubusercontent.com/unadequote/wplace-hub/refs/heads/mane/templates/vinesauce.png)
+## Princesses
 
-Coordinates: `1184` - `1175` - `873` - `659`  
-[Location](https://wplace.live/?lat=-25.745991346417107&lng=28.278544590527325)
+**[Location](https://wplace.live/?lat=-25.74266634458797&lng=28.29049771552733)**
+
+`1184` - `1175` - `941` - `638`
+
+[![Princesses](princesses.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/princesses.png)
+
+---
+
+## Rainbow Weed Left
+
+**[Location](https://wplace.live/?lat=39.38152779602686&lng=0.07532193427733694)**
+
+`1024` - `779` - `428` - `902`
+
+[![Rainbow Weed Left](rainbow-weed-left.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/rainbow-weed-left.png)
+
+---
+
+## Rainbow Weed
+
+**[Location](https://wplace.live/?lat=-25.512541067659622&lng=28.632392246777343)**
+
+`1186` - `1174` - `886` - `186`
+
+[![Rainbow Weed](rainbow-weed.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/rainbow-weed.png)
+
+---
+
+## Simple
+
+**[Location](https://wplace.live/?lat=-25.739657929425768&lng=28.274325840527332)**
+
+`1184` - `1175` - `849` - `619`
+
+[![Simple](simple.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/simple.png)
+
+---
+
+## Vinesauce
+
+**[Location](https://wplace.live/?lat=-25.745991346417107&lng=28.278544590527325)**
+
+`1184` - `1175` - `873` - `659`
+
+[![Vinesauce](vinesauce.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/vinesauce.png)
