@@ -200,7 +200,7 @@ Creator: [Unadequote](https://github.com/unadequote)\
 ## [Vineshrooms](https://wplace.live/?lat=-25.745991346417107&lng=28.278544590527325)
 
 `1184` - `1175` - `873` - `659`\
-Artist: ds777fighter (?)\
+Artist: [ds777fighter](https://booru.vineshroom.net/user/ds777fighter) (?)\
 Art source: [Vinebooru](https://booru.vineshroom.net/post/view/24029) and [Vinebooru](https://booru.vineshroom.net/post/view/24030)\
 Creator: [Unadequote](https://github.com/unadequote)\
 [![Vineshrooms](./vineshrooms.png)](https://raw.githubusercontent.com/unadequote/wplace-hub/mane/templates/vineshrooms.png "vineshrooms.png")
