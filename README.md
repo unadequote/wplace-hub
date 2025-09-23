@@ -14,7 +14,7 @@ Templates I've made or helped with and other useful stuff I found for [Wplace](h
 
 Some headers have hyperlinks to their respective resource.
 
-Items in sections with lists are grouped by functionality and each group is ordered alphabetically; the first member of a group determines their position in the list. Starred (:star:) items will always be at the top, as these are considered more worth using.
+Items in sections with lists are grouped by functionality and each group is ordered alphabetically; the first member of a group determines their position in the list. Starred ( :star: ) items will always be at the top, as these are considered more worth using.
 
 ## [Templates](./templates/README.md)
 
@@ -53,4 +53,3 @@ Some useful scripts to enhance your experience. I'm not responsible if your devi
 - [Wplace Live Chats](https://github.com/mininxd/wplace-livechat)
 - [Wplace Overlay Pro Symbol Viewer](https://greasyfork.org/en/scripts/545806-wplace-overlay-pro-symbol-viewer)
 - [Wplace Quick Search](https://greasyfork.org/en/scripts/545765-wplace-quick-search) or [Wplace Quick Search (dark theme)](https://greasyfork.org/en/scripts/546360-wplace-quick-search-dark-theme)
-
