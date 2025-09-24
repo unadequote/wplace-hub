@@ -28,7 +28,7 @@ Base, locked and full Wplace palettes. Parent folder's are in `.gpl` format whil
 
 A collection of useful sites and tools for converting images.
 
-- :star: **[Image-to-Pixel](https://tezumie.github.io/Image-to-Pixel/)** or **[Wplace.life](https://wplace.life)**
+- :star: **[Image-to-Pixel](https://tezumie.github.io/Image-to-Pixel/)** ([Lospec](https://lospec.com) palette slugs: `wplace-palette-free-colours` / `wplace-colors`) or **[Wplace.life](https://wplace.life)**
 - :star: **Wplace Backend: <https://backend.wplace.live/files/s0/tiles/tX/tY.png>** (Where `tX` and `tY` are the tile's `x` and `y` coordinates, respectively)
 - :star: **[Wplace Snapshot Browser](https://archive.snowpity.lol)**
 - :star: **[WplaceTimelapse](https://github.com/rickarockFR/WplaceTimelapse)**
@@ -53,3 +53,4 @@ Some useful scripts to enhance your experience. I'm not responsible if your devi
 - [Wplace Live Chats](https://github.com/mininxd/wplace-livechat)
 - [Wplace Overlay Pro Symbol Viewer](https://greasyfork.org/en/scripts/545806-wplace-overlay-pro-symbol-viewer)
 - [Wplace Quick Search](https://greasyfork.org/en/scripts/545765-wplace-quick-search) or [Wplace Quick Search (dark theme)](https://greasyfork.org/en/scripts/546360-wplace-quick-search-dark-theme)
+
